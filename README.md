@@ -6,4 +6,4 @@ Why'd i make this?
 
 idk
 
-Oh and yes. it goes live to (lightpaper.qd.je)[lightpaper.qd.je]
+Oh and yes. it goes live to [lightpaper.qd.je](lightpaper.qd.je)
